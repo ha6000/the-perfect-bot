@@ -1,0 +1,3 @@
+[submodule "ha6000-akairo"]
+	path = ha6000-akairo
+	url = https://github.com/ha6000/ha6000-akairo.git
